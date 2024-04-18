@@ -23,7 +23,7 @@ pipeline {
         }
         stage('test-branch') {
             steps {
-                echo 'test-branch'
+                echo 'test-branch new changes'
             }
         }        
     }
